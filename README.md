@@ -7,7 +7,7 @@
 - ZedBoard Zynq Evaluation and Development Kit
 
 ## 작동 영상
-- [링크](https://youtu.be/WxKYrhCJzjU)
+- [링크](https://youtu.be/6aguoTzoUTY)
 
 ## 게임 이름
 - 알까기 당구
